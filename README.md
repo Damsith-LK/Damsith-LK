@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @SL-Software-Learner
 - 👀 I’m interested in ... Software Developing
 - 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... 
+- 📫 How to reach me Discord - dangerkingissoogood
 
 <!---
 SL-Software-Learner/SL-Software-Learner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
