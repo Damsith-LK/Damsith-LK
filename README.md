@@ -3,6 +3,7 @@
 - 👋 Hi, I’m @Damsith-LK
 - 👀 I’m interested in ... Software Developing
 - 🌱 I’m currently learning ... Python
+- ❤️ I'm from Sri Lanka
 - 📫 How to reach me Discord - Mr.Believer#1519
 - 😁 Also I'm a big anime lover...
 
