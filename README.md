@@ -7,11 +7,7 @@
 - 📫 How to reach me Discord - Mr.Believer#1519
 - 😁 Also I'm a big anime lover...
 
-<br/>
-<br/>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Damsith-LK&show_icons=true&locale=en" alt="Damsith-LK" width="300" />
-</p>
+
 <br/>
 
 
@@ -23,7 +19,8 @@
 
 ## :trophy: Damsith Wijekoon Github Stats:
 
-![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Damsith-LK&theme=github_dark) 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Damsith-LK&layout=compact&hide=html" alt="Damsith-LK" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Damsith-LK&show_icons=true&count_private=true" alt="Damsith-LK" width="50%"/></p>
 
 
 <!---
