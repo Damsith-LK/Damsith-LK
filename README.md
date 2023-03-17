@@ -26,9 +26,10 @@
 ![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Damsith-LK&theme=github_dark) 
 
 
-<!---
 <h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px">&nbsp; Views and Followers :eyes:</h2>
+
 <p align="center">
+
 <a href="https://github.com/Damsith-LK/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Damsith-LK">
 </a>
@@ -36,8 +37,8 @@
         <img src="https://img.shields.io/github/followers/Damsith-LK?label=Followers&style=social" alt="GitHub Badge">
     </a>
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/github-profile-views-counter/count.svg"  alt="roland :: Damsith-LK Visitor's Count" /></p> 
-[github]: https://www.github.com/Damsith-LK/
+
+<!--
 SL-Software-Learner/SL-Software-Learner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
