@@ -4,7 +4,7 @@
 - 👀 I’m interested in ... ~~Software Developing~~ **Computer Science**
 - 🌱 I’m currently learning ... Python
 - ❤️ I'm from Sri Lanka
-- 📫 How to reach me Discord - Mr.Believer#1519
+- 📫 How to reach me Discord - soul_hunter2708
 - 😁 Also I'm a big anime lover...
 
 <br/>
