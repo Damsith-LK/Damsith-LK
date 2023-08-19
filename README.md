@@ -2,7 +2,7 @@
 
 ![Damsith Wijekoon](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&lines=Call+me+Damsith;Damsith+^_^)
 - 👀 I’m interested in ... ~~Software Developing~~ **Computer Science**
-- 🌱 I’m currently learning ... Python
+- 🌱 I’m currently learning ... Python, Web developing
 - ❤️ I'm from Sri Lanka
 - 📫 How to reach me Discord - soul_hunter2708
 - 😁 Also I'm a big anime lover...
