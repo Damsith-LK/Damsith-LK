@@ -17,7 +17,7 @@
 <br/>
 
 
-## :trophy: Damsith Wijekoon Github Stats:
+## 🏆 Damsith Wijekoon Github Stats:
 
 ![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Damsith-LK&theme=github_dark) 
 
